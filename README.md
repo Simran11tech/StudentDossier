@@ -1,6 +1,7 @@
 
 
 # StudentDossier
+![image](https://github.com/user-attachments/assets/048f02a9-4a97-453d-bc87-d3daa1e03398)
 
 ## Vision
 
@@ -26,6 +27,8 @@ Below is the high-level flowchart of how the StudentDossier operates:
 
 - **Network**: Ethereum
 - **Contract Address**: 0xec88e310005f0f6d9d1bbc184732812eaf28c970
+  
+![image](https://github.com/user-attachments/assets/2375e774-72e1-4619-a716-c0baa5101499)
 
 ## Contract Functions
 
