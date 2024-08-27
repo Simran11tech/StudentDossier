@@ -25,7 +25,7 @@ Below is the high-level flowchart of how the StudentDossier operates:
 ## Contract Address
 
 - **Network**: Ethereum
-- **Contract Address**: `0x1234567890abcdef1234567890abcdef12345678` *(Replace with the actual deployed address)*
+- **Contract Address**: 0xec88e310005f0f6d9d1bbc184732812eaf28c970
 
 ## Contract Functions
 
