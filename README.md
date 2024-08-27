@@ -20,7 +20,7 @@ Below is the high-level flowchart of how the StudentDossier operates:
 3. **Document Verification:**
    - Retrieve the IPFS hash and timestamp for verification of documents.
 
-![Flowchart](https://example.com/flowchart.png) *(Replace with actual link to the flowchart)*
+
 
 ## Contract Address
 
